@@ -1,0 +1,68 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    background: top center;
+    background-size: cover;
+    max-height: 400px;
+    color: white;
+    padding: 0px 100px 250px 100px;
+}
+
+.logoimage {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.tajamheader {
+    color: aqua;
+    font-family: 'Gill Sans', sans-serif;
+}
+
+.nav {
+    text-align: right;
+    justify-content: flex-end;
+}
+
+.weareawesome {
+    text-align: center;
+    padding: 80px 50px;
+}
+
+button {
+    color: aqua;
+    border: 3px solid;
+    border-color: aqua;
+}
+
+.our_story-section {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: fcenter;
+    padding: 80px 50px;
+    
+}
+
+.biglogo {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    padding: 40px;
+}
+
+.watch-section {
+    background: top center;
+    background-size: cover;
+    max-height: 400px;
+}
+
+.playbutton {
+    display: flex;
+    justify-content: center;
+}
